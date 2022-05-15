@@ -1,4 +1,5 @@
 package Recursion;
+//power of num
 
 import java.util.Scanner;
 
